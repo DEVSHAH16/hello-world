@@ -30,3 +30,8 @@ main {
   max-width: 800px;
   margin: 0 auto;
 }
+
+/* New button style */
+button {
+  background-color: #ff6600;
+}
